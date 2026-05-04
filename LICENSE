@@ -1,0 +1,49 @@
+# Proprietary License and Use Restrictions
+
+Copyright (c) 2026 Samantha Greenwell Revita and Terry Snyder. All rights reserved.
+
+This repository is provided as a public category surface for Elyria Consequence-Boundary Infrastructure under Elyria Systems — VA.
+
+No open-source license is granted.
+
+## Permitted Use
+
+You may view the public repository contents for evaluation, review, discussion, and non-commercial assessment of the bounded public category surface.
+
+## Prohibited Use
+
+Without prior written authorization from the rights holders, you may not:
+
+- copy, reproduce, redistribute, mirror, repackage, sublicense, or publish this repository or any substantial portion of it;
+- deploy, host, operate, integrate, commercialize, or productionize this repository or its concepts;
+- create derivative systems, competing products, training datasets, benchmarks, simulations, adapters, plugins, agents, workflows, or commercial implementations from this repository or its concepts;
+- reverse engineer, infer, reconstruct, or approximate protected kernels, scoring laws, client-specific law bundles, domain-specific policy logic, production adapters, runtime substrate, commercial corridor internals, receipt/replay methods, or implementation layers;
+- use this repository or its concepts to train, fine-tune, benchmark, evaluate, prompt, steer, or derive behavior for AI systems, models, agents, governance systems, execution-control systems, privacy systems, aerospace systems, access-control systems, memory systems, or commercial products;
+- represent this work as your own, imply authorship, imply affiliation, imply endorsement, remove attribution, or use Elyria Systems — VA, Veritas Aegis, Samantha Greenwell Revita, or Terry Snyder names in a way that suggests authorization or partnership without written agreement.
+
+## Public Surface Boundary
+
+This repository exposes only a public category surface.
+
+It does not include, disclose, license, or transfer:
+
+- protected implementation layers;
+- production runtime logic;
+- private kernels;
+- client-specific law bundles;
+- scoring laws;
+- production adapters;
+- runtime substrate;
+- commercial corridor internals.
+
+## No Warranty
+
+This repository is provided for controlled public evaluation only, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, correctness, safety, reliability, or suitability for production, regulated, scientific, aerospace, identity-critical, or mission-critical use.
+
+## Commercial and Evaluation Access
+
+Full evaluation, integration, commercial use, deployment, production access, protected-kernel access, or access to implementation layers requires a separate written agreement and/or NDA.
+
+Elyria Systems — VA  
+Samantha Greenwell Revita · Terry Snyder  
+All rights reserved.
