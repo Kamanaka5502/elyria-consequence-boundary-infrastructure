@@ -13,6 +13,8 @@
 ![Posture](https://img.shields.io/badge/Posture-public%20category%20surface-black)
 ![License](https://img.shields.io/badge/License-Proprietary-black)
 
+![Elyria Consequence-Boundary Infrastructure](assets/repo_identity_hero.svg)
+
 </div>
 
 ---
