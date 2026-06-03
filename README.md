@@ -2,7 +2,7 @@
 
 # ELYRIA CONSEQUENCE-BOUNDARY INFRASTRUCTURE
 
-### Public category surface for governed runtime admission before high-risk consequence may bind
+### Root product category for governed runtime admission before high-risk consequence may bind
 
 **ELYRIA SYSTEMS — VA**  
 **Samantha Revita · Terry Snyder**
@@ -16,6 +16,30 @@
 ![Elyria Consequence-Boundary Infrastructure](assets/repo_identity_hero.svg)
 
 </div>
+
+---
+
+## Root product position
+
+This repository pins the root product category:
+
+```text
+consequence-boundary infrastructure
+```
+
+All domain corridors, public proof surfaces, vertical demos, and buyer-specific artifacts are subordinate to this root product.
+
+The vertical repos do not define separate product categories.
+
+They show how the same root boundary architecture applies to specific consequence fields.
+
+```text
+Root product:
+Elyria Consequence-Boundary Infrastructure
+
+Vertical proof corridors:
+cyber / clinical / financial / privacy / aerospace / agent continuity / commit-boundary
+```
 
 ---
 
@@ -95,6 +119,29 @@ Agents persist memory, intent, identity, or tool posture without a governed boun
 
 ---
 
+## Canonical dependency graph
+
+```text
+Elyria Consequence-Boundary Infrastructure
+  -> Universal resolving / consequence-resolution doctrine
+  -> Runtime law and admissibility vocabulary
+  -> Standing / authority continuity layer
+  -> Domain corridor envelope
+  -> Public proof surface
+  -> Private production implementation
+```
+
+Layer rule:
+
+```text
+Doctrine explains the governing basis.
+Registry declares the canonical surfaces.
+Proof repos demonstrate bounded corridors.
+Implementation remains protected unless released under controlled agreement.
+```
+
+---
+
 ## Boundary Pattern
 
 ```text
@@ -114,11 +161,14 @@ proposed motion
 
 | Corridor | Protected consequence | Public proof surface |
 |---|---|---|
-| Privacy Action Custody | High-risk data action | Legal standing before data effect |
-| AI Output-to-Action | Model output becoming action | Authority/state proof before bind |
-| Mission Control | Engineering stage advancement | No unsafe stage admission |
-| Privileged Operations | Enterprise action execution | Authenticated is not enough |
-| Consciousness Boundary | Memory / identity / agency binding | No unqualified internal formation binds |
+| National Cyber Boundary | privileged cyber action | critical-access boundary before effect |
+| Clinical AI Boundary | recommendation moving toward clinical consequence | review/admissibility boundary before clinical motion |
+| Financial Motion Governance | AI-assisted financial motion | value-bearing action boundary before financial effect |
+| Privacy Action Custody | high-risk data action | legal standing before data effect |
+| AI Output-to-Action | model output becoming action | authority/state proof before bind |
+| Mission Control | engineering stage advancement | no unsafe stage admission |
+| Privileged Operations | enterprise action execution | authenticated is not enough |
+| Consciousness Boundary | memory / identity / agency binding | no unqualified internal formation binds |
 
 ---
 
@@ -139,7 +189,7 @@ no-effect / no-advance / no-bind proof
 Protected layers retain:
 
 ```text
-private kernels
+private resolving machinery
 client-specific law bundles
 scoring laws
 domain-specific policy logic
@@ -152,6 +202,6 @@ commercial corridor internals
 
 ## Public Posture
 
-This repository is a public category surface for Elyria Systems — VA.
+This repository is the public root product surface for Elyria Systems — VA.
 
 It does not grant open-source rights, production deployment rights, commercial use rights, or access to protected implementation layers.
